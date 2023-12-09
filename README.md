@@ -6,3 +6,10 @@ Dive into the seamless and visually captivating interface that brings the classi
 What sets 'ElementalClash' apart is its integration of database storage, allowing players to track their plays and outcomes over time. Witness the evolution of your decision-making skills and adapt your strategies as you climb the ranks in this dynamic and persistent gaming experience.
 
 Experience the thrill of each virtual throw, and let the database capture the essence of your gaming journey. Whether you're a casual player or a seasoned strategist, 'ElementalClash' promises endless hours of entertainment and a truly unique spin on the classic Rock Paper Scissors game. Get ready to embark on an odyssey of strategy, fun, and elemental surprises!"
+
+# How to RUN
+
+1. Install zip folder.
+2. Open folder in environment(VS Code).
+3. Open index.html.
+4. Run it through 'Live Server' on browser.
