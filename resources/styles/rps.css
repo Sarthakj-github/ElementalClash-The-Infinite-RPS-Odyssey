@@ -1,0 +1,31 @@
+body{
+    background-color: aquamarine;
+}
+
+button img{
+    width: 100px;
+    border-radius: 50%;
+    height: 100px;
+}
+button{
+    background-color: transparent;
+    border-color: transparent;
+}
+table th{
+    background-color: blueviolet;
+    color: white;
+}
+table td{
+    background-color: wheat;
+}
+#reset{
+    height: 50px;
+    width: 50px;
+}
+#buttons-container,#game-summary-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
