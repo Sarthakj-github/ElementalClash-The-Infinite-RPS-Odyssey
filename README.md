@@ -11,5 +11,11 @@ Experience the thrill of each virtual throw, and let the database capture the es
 
 1. Install zip folder.
 2. Open folder in environment(VS Code).
-3. Open index.html.
+3. Open 'index.html'.
 4. Run it through 'Live Server' on browser.
+
+# How to PLAY
+
+1. select move from 'Rock','Paper','Scissors'.
+2. Computer will select its move.
+3. Result will be displayed either 'Won','Lose' or 'Tie' respect to User.
